@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abdal/CLionProjects/HelloWorld/main.cpp
+iostream
+C:/Users/abdal/CLionProjects/HelloWorld/iostream
+
+C:/Users/abdal/CLionProjects/HelloWorld/sum2num.cpp
+

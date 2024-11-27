@@ -1,0 +1,3 @@
+C:/Users/abdal/CLionProjects/FinalHW/cmake-build-debug/CMakeFiles/FinalHW.dir
+C:/Users/abdal/CLionProjects/FinalHW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdal/CLionProjects/FinalHW/cmake-build-debug/CMakeFiles/rebuild_cache.dir

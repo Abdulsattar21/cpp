@@ -1,0 +1,8 @@
+//
+// Created by abdal on 7.06.2021.
+//
+
+#ifndef SOLVINGQUESTIONS_SOLVING_H
+#define SOLVINGQUESTIONS_SOLVING_H
+
+#endif //SOLVINGQUESTIONS_SOLVING_H

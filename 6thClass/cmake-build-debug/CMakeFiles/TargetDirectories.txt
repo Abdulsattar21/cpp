@@ -1,0 +1,3 @@
+C:/Users/abdal/CLionProjects/6thClass/cmake-build-debug/CMakeFiles/6thClass.dir
+C:/Users/abdal/CLionProjects/6thClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdal/CLionProjects/6thClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir

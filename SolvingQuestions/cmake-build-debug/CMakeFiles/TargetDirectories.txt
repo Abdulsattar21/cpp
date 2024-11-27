@@ -1,0 +1,3 @@
+C:/Users/abdal/CLionProjects/SolvingQuestions/cmake-build-debug/CMakeFiles/SolvingQuestions.dir
+C:/Users/abdal/CLionProjects/SolvingQuestions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdal/CLionProjects/SolvingQuestions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

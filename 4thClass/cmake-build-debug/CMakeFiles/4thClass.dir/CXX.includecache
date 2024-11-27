@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abdal/CLionProjects/4thClass/pointClass.cpp
+iostream
+-
+iomanip
+-
+
+C:/Users/abdal/CLionProjects/4thClass/test_GradeBook.cpp
+iostream
+-
+
