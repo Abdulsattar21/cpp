@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\abdal\CLionProjects\2&3 Class Testing Select CMakeLists.txt

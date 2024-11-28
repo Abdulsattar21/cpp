@@ -1,3 +1,0 @@
-C:/Users/abdal/CLionProjects/2ndAssi2021/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/abdal/CLionProjects/2ndAssi2021/cmake-build-debug/CMakeFiles/2ndAssi2021.dir
-C:/Users/abdal/CLionProjects/2ndAssi2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
